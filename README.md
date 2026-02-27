@@ -16,9 +16,5 @@ I'm a Software Developer.
 ![](https://ntuananh.vercel.app/api?username=ntuananhdevs&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&line_height=25)<br/>
 
 
-## 🌐Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ntuananh.vn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ntuananh_h) 
-
 ---
 ![](https://komarev.com/ghpvc/?username=ntuananhdevs&label=Visitors+Count&color=brightgreen)
